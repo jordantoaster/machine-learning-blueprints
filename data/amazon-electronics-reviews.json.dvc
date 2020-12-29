@@ -1,0 +1,4 @@
+outs:
+- md5: 0e5d95086d4bd9cbd5b03e4f5d38c842
+  size: 372319589
+  path: amazon-electronics-reviews.json
