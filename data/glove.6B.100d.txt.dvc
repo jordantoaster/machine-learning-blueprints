@@ -1,0 +1,4 @@
+outs:
+- md5: 71482c828055e065ed9a576e64275765
+  size: 347117594
+  path: glove.6B.100d.txt
