@@ -1,2 +1,6 @@
 dvc
 boto3
+gensim
+nltk
+seaborn
+jupyter
