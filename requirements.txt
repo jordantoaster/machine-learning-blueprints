@@ -4,3 +4,9 @@ gensim
 nltk
 seaborn
 jupyter
+opencv-python
+imutils
+scikit-image==17.1
+tensorflow
+tensorflow-hub
+annoy
