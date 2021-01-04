@@ -1,7 +1,3 @@
-md5: 2d82f459be212ab1b0e7ecea4d594b97
 outs:
 - md5: 181f52dfcd50655bc379b8f7c41df904
   path: spam.csv
-  cache: true
-  metric: false
-  persist: false
