@@ -15,4 +15,7 @@ torchvision==0.8.2+cpu
 torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 fastai==1.0.57
 faiss
+recordlinkage
+fuzzywuzzy
+
 
